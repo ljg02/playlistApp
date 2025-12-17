@@ -1,5 +1,7 @@
-This repository is a fork of https://github.com/kmb3322/playlistApp
+This repository is a fork of https://github.com/kmb3322/playlistApp.
+
 I contributed to the original project as a collaborator.
+---
 
 
 **APK 다운로드**
