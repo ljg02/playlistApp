@@ -18,6 +18,8 @@ I contributed to the original project as a collaborator.
 
 사용자의 선호도에 따라 음악 앨범 커버 이미지를 보여줍니다.
 
+madcampWeek1(몰입캠프 1주차 프로젝트)
+
 # Team
 
 ---
