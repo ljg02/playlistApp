@@ -1,3 +1,7 @@
+This repository is a fork of https://github.com/kmb3322/playlistApp
+I contributed to the original project as a collaborator.
+
+
 **APK 다운로드**
 [playlistWorldcup 1.4.apk](https://drive.google.com/file/d/1wHGHc1y4lemyoJgAYFa87R5IxlCFRZUP/view?usp=sharing)
 
